@@ -46,7 +46,7 @@ We welcome contributions from the community! If you'd like to contribute to the 
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to us at [your-email@example.com](andres.rivas@utp.edu.co).
+If you have any questions or suggestions, feel free to reach out to us at [andres.rivas@utp.edu.co](andres.rivas@utp.edu.co).
 
 ---
 
