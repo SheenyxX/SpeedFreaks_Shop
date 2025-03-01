@@ -139,7 +139,7 @@ def hero_section() -> rx.Component:
             ),
             rx.link(
                 rx.button("🔥Hot Sales!"),
-                href="https://www.facebook.com/profile.php?id=100069765637816%2F",
+                href="https://www.facebook.com/share/1UeemmGbZq/?mibextid=wwXIfr",
                 is_external=True,
             ),
             spacing="5",
